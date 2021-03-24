@@ -3,6 +3,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ray346&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there 👋 [>>Ray346<<]
 
+常用
+Nginx
+Visual Stuido Code
+[url=https://chrome.google.com]Google Chrome[/url]
+Putty
+Winscp
+[url=https://discord.com]Discord[/url]
 <!--
 **ray346/ray346** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
