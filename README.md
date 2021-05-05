@@ -6,10 +6,10 @@
 常用
 Nginx
 Visual Stuido Code
-[url=https://chrome.google.com]Google Chrome[/url]
+Google Chrome
 Putty
 Winscp
-[url=https://discord.com]Discord[/url]
+Discord
 <!--
 **ray346/ray346** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
